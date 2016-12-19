@@ -602,16 +602,14 @@ private: System::Void pictureBox1_Click(System::Object^  sender, System::EventAr
 					 {
 						 pictureBox1->Image = Image::FromFile("O.jpg");
 						 toolStripStatusLabel1->Text = "ª±®a2";
-						 
+						 CheckFirstWin();
 					 }
 					 else
 					 {
 						 pictureBox1->Image = Image::FromFile("X.jpg");
 						 toolStripStatusLabel1->Text = "ª±®a1";
-						 
+						 CheckSecondWin();
 					 }
-					 CheckFirstWin();
-					 CheckSecondWin();
 					 isChecked[0] = true;					 
 					 playerNo = -playerNo;
 

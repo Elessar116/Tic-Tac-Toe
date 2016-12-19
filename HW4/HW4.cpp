@@ -1,5 +1,5 @@
 // HW4.cpp: 主要專案檔。
-//OOP第四次作業
+//OOP第四次作業 N16054572 機械碩一 周秉諭
 
 #include "stdafx.h"
 #include "Form1.h"
