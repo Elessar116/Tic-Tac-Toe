@@ -1,4 +1,5 @@
 // HW4.cpp: 主要專案檔。
+//OOP第四次作業
 
 #include "stdafx.h"
 #include "Form1.h"
